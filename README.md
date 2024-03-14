@@ -7,7 +7,7 @@ The is the github page for ECCV submission ``Learning Counterfactual Thoughts fo
 ## Dataset Download
 | Updated on      | Questions and Annotations | Figures | Question Count | Figure Count |
 | ----------- | :----: | :----: | :----: | :----: |
-| Mar 06, 2024     | [CoBRa.csv](./CoBRa.csv) | [CoBRa.zip](https://drive.google.com/file/d/1xCRiI2kXdgmHSSfLlOPjBt4qMNDZLQqi/view?usp=sharing)         | 20000  | 10000 |
+| Mar 06, 2024     | [CoBRa.csv](./CoBRa.csv) | [CoBRa.zip](https://drive.google.com/file/d/1xCRiI2kXdgmHSSfLlOPjBt4qMNDZLQqi/view?usp=sharing)         | 64604  | 14151 |
 
 
 ## Environment Setup
@@ -22,7 +22,7 @@ The following softwares are needed
 The code is developped on top of implementations of ``[TLM](https://github.com/facebookresearch/XLM)''.
 Please check the repo for MLM+TLM parameters
 ```
-python trai_TLM.py
+python train_TLM.py
 ```
 
 ### Prompt the LVLMs

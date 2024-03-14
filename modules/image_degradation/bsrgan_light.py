@@ -14,17 +14,6 @@ import albumentations
 
 import ldm.modules.image_degradation.utils_image as util
 
-"""
-# --------------------------------------------
-# Super-Resolution
-# --------------------------------------------
-#
-# Kai Zhang (cskaizhang@gmail.com)
-# https://github.com/cszn
-# From 2019/03--2021/08
-# --------------------------------------------
-"""
-
 def modcrop_np(img, sf):
     '''
     Args:

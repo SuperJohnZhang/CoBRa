@@ -7,7 +7,7 @@ The is the github page for ECCV submission ``Learning Counterfactual Thoughts fo
 ## Dataset Download
 | Updated on      | Questions and Annotations | Figures | Question Count | Figure Count |
 | ----------- | :----: | :----: | :----: | :----: |
-| Mar 06, 2024     | [CoBRa.csv](./CoBRa.csv) | [CoBRa.zip]()         | 20000  | 10000 |
+| Mar 06, 2024     | [CoBRa.csv](./CoBRa.csv) | [CoBRa.zip](https://drive.google.com/file/d/1xCRiI2kXdgmHSSfLlOPjBt4qMNDZLQqi/view?usp=sharing)         | 20000  | 10000 |
 
 
 ## Environment Setup
